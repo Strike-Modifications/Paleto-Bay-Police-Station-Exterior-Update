@@ -1,5 +1,12 @@
 # How to Install Map
 
+<details>
+<summary><strong>Requirements</strong></summary>
+
+
+
+</details>
+
 1. **Download Files:** Obtain the necessary map files from the appropriate source.
    
 2. **Move Them into Your Server's Resources Folder and Add It to the Server CFG:** 
@@ -11,9 +18,7 @@
 
 ---
 
-<details>
-<summary><strong>Requirements</strong></summary>
+### Discord Support
 
-- **Support:**
-
-</details>
+For any questions or assistance, join our Discord server:
+https://discord.gg/tBPwzt55Py
