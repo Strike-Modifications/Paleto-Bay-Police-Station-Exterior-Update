@@ -36,5 +36,6 @@ By continuing to use this map, you affirm that you have read, understood, and ag
 
 For any questions or assistance, join our Discord server:
 https://discord.gg/tBPwzt55Py
-https://forum.cfx.re/uploads/default/optimized/4X/6/e/7/6e704b670fd1e76bf4e88ed715e2a6346907fd54_2_690x266.jpeg
-https://forum.cfx.re/uploads/default/optimized/4X/1/c/f/1cf7edcee679d4fdec50007c71c5c0a2fe482e50_2_690x333.png
+
+![6e704b670fd1e76bf4e88ed715e2a6346907fd54](https://github.com/Strike-Modifications/Paleto-Bay-Police-Station-Exterior-Update![1cf7edcee679d4fdec50007c71c5c0a2fe482e50](https://github.com/Strike-Modifications/Paleto-Bay-Police-Station-Exterior-Update/assets/85084135/efcf639f-e140-46da-aeae-882a06335be6)
+/assets/85084135/15d2e871-a823-4485-9c9d-972cd63cd7fd)
