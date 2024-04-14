@@ -20,13 +20,13 @@
 
 ### Terms of Service
 
-By using [Service Name], you agree to the following terms:
+By using this map, you agree to the following terms:
 
 1. **Non-commercial Use:** You may not sell, trade, or exchange for money, goods, or other items of value.
 
 2. **No Modification:** You may not edit, modify, or alter without explicit permission from Strike Modifications.
 
-3. **Disclaimer of Liability:** Strike Modifications is not responsible for any issues, damages, or disruptions caused by the use of [Service Name] in your server. By using [Service Name], you acknowledge and accept any associated risks.
+3. **Disclaimer of Liability:** Strike Modifications is not responsible for any issues, damages, or disruptions caused by the use of maps in your server. By using Strike Modifications, you acknowledge and accept any associated risks.
 
 By continuing to use this map, you affirm that you have read, understood, and agreed to these terms of service.
 
