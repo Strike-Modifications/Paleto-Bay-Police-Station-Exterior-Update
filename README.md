@@ -1,4 +1,4 @@
-# How to Install Map
+# How to Install Map Paleto-Bay-Police-Station-Exterior
 
 <details>
 <summary><strong>Requirements</strong></summary>
