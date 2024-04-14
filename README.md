@@ -2,7 +2,7 @@
 
 <details>
 <summary><strong>Requirements</strong></summary>
-- Test https://forum.cfx.re/t/release-paleto-bay-pd-upgraded-updated-9-24-2020-added-role-gate-for-front-instead-of-push/1462799
+- Map Builder Download Free: https://www.patreon.com/file?h=85242032&i=16691375
 
 
 </details>
