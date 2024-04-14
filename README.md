@@ -1,2 +1,19 @@
-# Paleto-Bay-Police-Station-Exterior-Update
- The Paletobay Police Station's exterior has been revamped with a new garage for police vehicles and refreshed aesthetics. The addition of the garage improves functionality, while spruced-up areas and landscaping enhancements enhance the station's professional appearance and community presence.
+# How to Install Map
+
+1. **Download Files:** Obtain the necessary map files from the appropriate source.
+   
+2. **Move Them into Your Server's Resources Folder and Add It to the Server CFG:** 
+    - Locate the resources folder of your server.
+    - Transfer the downloaded map files into this folder.
+    - Update the server configuration file (CFG) to include the new map.
+
+3. **Check for Requirements:** Before installing, ensure that your server meets any prerequisites or dependencies.
+
+---
+
+<details>
+<summary><strong>Requirements</strong></summary>
+
+- **Support:**
+
+</details>
